@@ -21,9 +21,9 @@ onMounted(() => {
         target="_blank"
         title="HTML.ZONE"
       >
-        &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
+        &copy; {{ new Date().getFullYear() }} All Rights Reserved
       </a>
-      <span
+      <!-- <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
       >
         <a
@@ -95,7 +95,7 @@ onMounted(() => {
             class="w-6 h-6"
           />
         </a>
-      </span>
+      </span> -->
     </div>
   </section>
 </template>

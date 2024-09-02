@@ -64,7 +64,7 @@ const showMenu = ref(false)
                 href="/dashboard"
                 title="Sink Dashboard"
               >Dashboard</a>
-              <a
+              <!-- <a
                 href="https://github.com/ccbikai/sink"
                 target="_blank"
                 title="Github"
@@ -73,7 +73,7 @@ const showMenu = ref(false)
                 <GitHubIcon
                   class="w-5 h-5 mr-1"
                 />
-                GitHub</a>
+                GitHub</a> -->
               <span class="ml-1">
                 <SwitchTheme />
               </span>
